@@ -1,0 +1,55 @@
+2026-04-06 21:04:44,467 - INFO - Iniciando extração de dados
+2026-04-06 21:04:44,474 - INFO - Schema válido para data/raw/customers.csv
+2026-04-06 21:04:44,485 - INFO - Extraído 3000 registros de customers.csv
+2026-04-06 21:04:44,488 - INFO - Schema válido para data/raw/products.csv
+2026-04-06 21:04:44,492 - INFO - Extraído 300 registros de products.csv
+2026-04-06 21:04:44,499 - INFO - Schema válido para data/raw/orders.csv
+2026-04-06 21:04:44,518 - INFO - Extraído 10000 registros de orders.csv
+2026-04-06 21:04:44,524 - INFO - Schema válido para data/raw/order_items.csv
+2026-04-06 21:04:44,553 - INFO - Extraído 20000 registros de order_items.csv
+2026-04-06 21:04:44,553 - INFO - Iniciando transformação de dados
+2026-04-06 21:04:44,879 - INFO - Transformação concluída
+2026-04-06 21:04:44,879 - INFO - Iniciando carga de dados
+2026-04-06 21:04:44,915 - WARNING - Tabela raw_customers já tem 3000 registros. Pulando inserção para idempotência.
+2026-04-06 21:04:44,919 - INFO - Pipeline ETL concluído com sucesso
+2026-04-06 21:04:44,919 - INFO - Iniciando extração de dados
+2026-04-06 21:04:44,923 - INFO - Schema válido para data/raw/customers.csv
+2026-04-06 21:04:44,934 - INFO - Extraído 3000 registros de customers.csv
+2026-04-06 21:04:44,936 - INFO - Schema válido para data/raw/products.csv
+2026-04-06 21:04:44,938 - INFO - Extraído 300 registros de products.csv
+2026-04-06 21:04:44,942 - INFO - Schema válido para data/raw/orders.csv
+2026-04-06 21:04:44,954 - INFO - Extraído 10000 registros de orders.csv
+2026-04-06 21:04:44,957 - INFO - Schema válido para data/raw/order_items.csv
+2026-04-06 21:04:44,974 - INFO - Extraído 20000 registros de order_items.csv
+2026-04-06 21:04:44,974 - INFO - Iniciando transformação de dados
+2026-04-06 21:04:45,238 - INFO - Transformação concluída
+2026-04-06 21:04:45,239 - INFO - Iniciando carga de dados
+2026-04-06 21:04:45,273 - WARNING - Tabela raw_customers já tem 3000 registros. Pulando inserção para idempotência.
+2026-04-06 21:05:13,284 - INFO - Iniciando extração de dados
+2026-04-06 21:05:13,288 - INFO - Schema válido para data/raw/customers.csv
+2026-04-06 21:05:13,297 - INFO - Extraído 3000 registros de customers.csv
+2026-04-06 21:05:13,299 - INFO - Schema válido para data/raw/products.csv
+2026-04-06 21:05:13,301 - INFO - Extraído 300 registros de products.csv
+2026-04-06 21:05:13,307 - INFO - Schema válido para data/raw/orders.csv
+2026-04-06 21:05:13,320 - INFO - Extraído 10000 registros de orders.csv
+2026-04-06 21:05:13,324 - INFO - Schema válido para data/raw/order_items.csv
+2026-04-06 21:05:13,342 - INFO - Extraído 20000 registros de order_items.csv
+2026-04-06 21:05:13,349 - INFO - Aplicado filtro de data: 2026-01-01 00:00:00
+2026-04-06 21:05:13,349 - INFO - Iniciando transformação de dados
+2026-04-06 21:05:13,507 - INFO - Transformação concluída
+2026-04-06 21:05:13,507 - INFO - Iniciando carga de dados
+2026-04-06 21:05:13,562 - WARNING - Tabela raw_customers já tem 3000 registros. Pulando inserção para idempotência.
+2026-04-06 21:05:13,566 - INFO - Pipeline ETL concluído com sucesso
+2026-04-06 21:05:13,566 - INFO - Iniciando extração de dados
+2026-04-06 21:05:13,571 - INFO - Schema válido para data/raw/customers.csv
+2026-04-06 21:05:13,585 - INFO - Extraído 3000 registros de customers.csv
+2026-04-06 21:05:13,587 - INFO - Schema válido para data/raw/products.csv
+2026-04-06 21:05:13,590 - INFO - Extraído 300 registros de products.csv
+2026-04-06 21:05:13,596 - INFO - Schema válido para data/raw/orders.csv
+2026-04-06 21:05:13,614 - INFO - Extraído 10000 registros de orders.csv
+2026-04-06 21:05:13,618 - INFO - Schema válido para data/raw/order_items.csv
+2026-04-06 21:05:13,645 - INFO - Extraído 20000 registros de order_items.csv
+2026-04-06 21:05:13,645 - INFO - Iniciando transformação de dados
+2026-04-06 21:05:13,913 - INFO - Transformação concluída
+2026-04-06 21:05:13,914 - INFO - Iniciando carga de dados
+2026-04-06 21:05:13,950 - WARNING - Tabela raw_customers já tem 3000 registros. Pulando inserção para idempotência.
